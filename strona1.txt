@@ -1,0 +1,4 @@
+#strona1
+
+
+<font color="kolor">Tu wpisz tekst</font>
